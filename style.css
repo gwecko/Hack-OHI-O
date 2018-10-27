@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-size: 100%;
+  background-image: radial-gradient(white, darkgray, black);
+}
+
+header{
+  width: 45%;
+  margin: 60px auto 0px;
+  color: white;
+  background: crimson;
+  text-align: center;
+  border: 2px solid black;
+  border-bottom-style: groove;
+  border-radius: 10px 10px 2px 2px;
+  padding: 10px;
+}
