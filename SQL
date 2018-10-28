@@ -1,1 +1,2 @@
 https://stackoverflow.com/questions/15251095/display-data-from-sql-database-into-php-html-table
+https://www.dummies.com/programming/sql/how-to-use-html5-tables-for-sql-output/
